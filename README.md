@@ -78,11 +78,11 @@ ylabel("Amplitude");
 
 ## OUTPUT (Linear Convolution): 
 
-<img width="764" height="721" alt="image" src="https://github.com/user-attachments/assets/a7aceda1-f7ff-4a0a-a4e4-b0ca7ac5eb99" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/a7aceda1-f7ff-4a0a-a4e4-b0ca7ac5eb99" />
 
 ## OUTPUT (Circular Convolution): 
 
-<img width="762" height="719" alt="image" src="https://github.com/user-attachments/assets/861d3d24-c0fa-4a25-ab94-cd86cde233f3" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/861d3d24-c0fa-4a25-ab94-cd86cde233f3" />
 
 ## RESULT: 
 
